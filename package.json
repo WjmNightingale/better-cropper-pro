@@ -1,5 +1,5 @@
 {
-  "name": "better-cropper-pro",
+  "name": "@melongain/better-cropper-pro",
   "version": "1.0.0",
   "description": "a better cropper pro",
   "keywords": [
@@ -9,7 +9,7 @@
   "author": "wjm",
   "license": "ISC",
   "publishConfig": {
-    "@WjmNightingale:registry": "https://npm.pkg.github.com"
+    "@melongain:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "rollup": "rollup -c"
