@@ -9,7 +9,7 @@
   "author": "wjm",
   "license": "ISC",
   "publishConfig": {
-    "@WjmNightingale:registry": "https://npm.pkg.github.com/WjmNightingale"
+    "@WjmNightingale:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "rollup": "rollup -c"
